@@ -1,0 +1,4 @@
+---
+dg-publish: true
+---
+**Yuvoth** est un Dieu qui possède un monde (autre qu'Empyrium), sauf qu'il l'a mal créé, il n'avait pas d'idées précises, ce qui a créé du chaos et de l'inconsistance dans son monde. Avec l'Anima dans son monde, cela a encore plus empiré les choses, rendant son peuple complètement obsédé par l'Anima, jusqu'à vouloir tout absorber. En conséquence, Yuvoth devint fou et corrompu, avide d'Anima, pour l'offrir à son peuple. Sachant que Yuvoth n'est pas seul dans l'univers au complet, et leur planète complètement détruite, il les guida pour conquérir d'autres planètes et absorber l'Anima, pour créer l'Obscura, l'inverse de l'Anima, source de la corruption.

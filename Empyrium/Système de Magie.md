@@ -1,0 +1,26 @@
+---
+dg-publish: true
+---
+Le système de magie d’Empyrium repose sur plusieurs piliers :
+- La coût est la ressource : l’Anima
+- Un Sort doit être lancé par le biais d’une représentation visuelle (ou mentale) de la structure de ce sort.
+- Un Sort peut cependant être executé grâce à la volonté pure, dans la limite des connaissances du mage
+    - Par exemple, si un mage veut du feu, il doit penser très fort à avoir du feu, et il aura du feu (un peu).
+    - Cependant, plus il apprend les principes de la magie en générale et des sorts en spécifique, plus il sera capable de lancer des sorts plus puissants _(+ de feu, ou une flamme bleue — donc bien plus chaude qu'une flamme rouge — puisqu’il peut optimiser la structure)_, plus économiques _(autant de feu pour moins d'énergie, car la structure est optimisée différemment)_, ou différents (_du feu qui prend des formes, moins de fumée, qui tient sans oxygène, etc.)_, parce qu’il peut modifier la structure de base du sort... (_un peu comme les éléments périodiques artificiels, car leur structure n'est pas trouvable/viable dans la nature mais faisable en labo._)
+- L'entrainement et la répétition créent des automatismes, ce qui rend plus facile (voir innée) de lancer des sorts déjà appris. A l'opposé, plus le mage apprend la théorie, et plus il pourra lancer des sorts compliqués... mais cela demande du boulot en amont et sur le tas.
+La structure d’un sort a un seul “coeur”, mais dans certains cas il peut y en avoir plusieurs. Ce coeur est représenté par un type de magie qui nécessite une affinité et une expérience plus ou moins importante avec la magie. Voici la hierarchie :
+
+| Type de Magie                        | Catégorie  | Niveau de Transcendance requis | Description                                                                                                                                                            |
+| ------------------------------------ | ---------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elémentaire                          | Mineure    | Aucune                         | Magie touchant aux éléments du monde matériel, et des phénomènes naturels. (feu, orage, éclairs, vent, déplacer pseudo-télékinésie, etc.)                              |
+|                                      | Majeure    | Aucune                         |                                                                                                                                                                        |
+|                                      | Supérieure | Eveillé                        |                                                                                                                                                                        |
+| Spirituelle                          | Mineure    | Aucune                         | Magie touchant de près ou de loin aux âmes et aux Esprits (élémentaires/spécialisés) du monde Spirituel.                                                               |
+|                                      | Majeure    | Eveillé                        |                                                                                                                                                                        |
+|                                      | Supérieure | Eveillé                        |                                                                                                                                                                        |
+| Soutien _(Dérivée de “Spirituelle”)_ | Mineure    | Aucune                         | Magie dérivée de la magie Spirituelle qui affecte le corps physiquede soi ou d’autrui et le buff/debuff par le biais d’un transfet âme soi > âme autrui > corps autrui |
+|                                      | Majeure    | Aucune                         |                                                                                                                                                                        |
+|                                      | Supérieure | Eveillé                        |                                                                                                                                                                        |
+| Céleste                              | Mineure    | Transcendant                   | Magie touchant de près ou de loin à tout ce qui est création et destruction en tout genre.                                                                             |
+|                                      | Majeure    | Transcendant                   |                                                                                                                                                                        |
+|                                      | Supérieure | Transcendant                   |                                                                                                                                                                        |
