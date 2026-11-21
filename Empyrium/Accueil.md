@@ -3,7 +3,7 @@ dg-publish: true
 ---
 ![[Empyrium Map.png]]
 
-# L’Origine
+# L’Origine.
 
 Le Big Bang, un phénomène incompris par les mortels, mais possède une explication précise dans tout l'univers où se trouve Empyrium : le Big Bang est né d'un désir primitif inouï d'exister. Ce désir est une entité inconsciente, un concept presque, capable de créer n'importe quoi et tout détruire. Malgré le chaos de ce désir, ce dernier suit toujours des règles bien précises : créer pour les autres, détruire pour le renouveau. C'est le commencement de l'univers entier ; matière, étoiles, astéroïdes, planètes, etc tout part de cela.
 
